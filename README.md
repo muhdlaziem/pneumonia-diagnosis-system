@@ -6,6 +6,8 @@ This project is a submission from a mini AI-thon organized by Skymind
 
 ## How to deploy the webapp
 
+Download h5 file: https://drive.google.com/file/d/1scqgXosKhmHqj7b5dKrL2LGoyBeFMVJ3/view?usp=sharing
+
 ```bash
 pip install -r requirement.txt
 cd webapp/
